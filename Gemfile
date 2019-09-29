@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-rvm install ruby '2.1.2'
+rvm ruby '2.1.2'
 
 gem 'rails', '4.1.1'
 gem 'pg', '0.17.1'
